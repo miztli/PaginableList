@@ -1,0 +1,6 @@
+#ignore compiled classes
+/target
+#ignore INTELLIJ files
+.idea/
+commons-utils.iml
+
